@@ -1,4 +1,4 @@
-package beike;
+package com.rameo.beike;
 
 import com.alibaba.excel.annotation.ExcelProperty;
 import lombok.Data;

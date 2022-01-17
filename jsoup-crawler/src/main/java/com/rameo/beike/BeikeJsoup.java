@@ -1,4 +1,4 @@
-package beike;
+package com.rameo.beike;
 
 import com.alibaba.excel.EasyExcelFactory;
 import com.alibaba.excel.write.metadata.style.WriteCellStyle;
